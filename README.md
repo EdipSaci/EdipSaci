@@ -3,6 +3,15 @@
 <h2>I'm Software Test Specialist</h2>
 
 <h3>About me 🍀 </h3> 
+As a ISTQB certified QA Automation Engineer with nearly 4 years of hands-on experience in the Software Development
+Life Cycle. Throughout my career I've specialized in automation and manuel testing. I am responsible for ensuring the
+quality of our software products by designing, implementing, and executing tests. I was involved in phases of SDLC and
+STLC and worked Agile Scrum environments with all ceremonies. I have hands on experience in UI, API and DataBase
+testing. I have basic knowledge on mobile testing.
+I am eager to contribute to team success through hard work and also dedication to the job. Motivated to learn and grow
+in the IT industry. I always make sure to meet the deadlines. I consider myself as a great cross-functional team player,
+detail-oriented, quick-learner and self-motivated individual with excellent analytical abilities.
+
 <p></p>
 
 <br>
