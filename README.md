@@ -43,7 +43,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+<a href="https://linkedin.com/in/edip-saci/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="cengizcmataraci" height="30" width="30" /></a>
 
 
 
